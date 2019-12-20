@@ -82,7 +82,7 @@ namespace UniqueElement
             decimal dictMethodTimeAve = timeSum / 30;
             Console.WriteLine("ave: " + dictMethodTimeAve);
             
-            Console.WriteLine("\n\n\nSORT METHOD - GetUniqueElementBySort(): {0}ms", sortMethodTimeAve);
+            Console.WriteLine("\n\n\nSORT METHOD - GetUniqueElementBySort() average time: {0}ms", sortMethodTimeAve);
             Console.WriteLine("DICTIONARY METHOD - GetUniqueElement() average time: {0}ms", dictMethodTimeAve);
         }
 
