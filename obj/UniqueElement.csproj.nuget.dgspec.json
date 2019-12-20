@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DanGlaubitz\\source\\repos\\UniqueElement\\UniqueElement.csproj": {}
+    "C:\\Dev\\UniqueElement\\UniqueElement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DanGlaubitz\\source\\repos\\UniqueElement\\UniqueElement.csproj": {
+    "C:\\Dev\\UniqueElement\\UniqueElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DanGlaubitz\\source\\repos\\UniqueElement\\UniqueElement.csproj",
+        "projectUniqueName": "C:\\Dev\\UniqueElement\\UniqueElement.csproj",
         "projectName": "UniqueElement",
-        "projectPath": "C:\\Users\\DanGlaubitz\\source\\repos\\UniqueElement\\UniqueElement.csproj",
+        "projectPath": "C:\\Dev\\UniqueElement\\UniqueElement.csproj",
         "packagesPath": "C:\\Users\\DanGlaubitz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DanGlaubitz\\source\\repos\\UniqueElement\\obj\\",
+        "outputPath": "C:\\Dev\\UniqueElement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -90,7 +90,9 @@ namespace UniqueElement
         static int GetUniqueElement(int[] containsOneUnique, int n)
         {
             Dictionary<int,int> findUnique = new Dictionary<int,int>();
-            for (int x = 0; x < (n * 2 + 1); x++)
+            int nFormula = n * 2 + 1;
+
+            for (int x = 0; x < nFormula; x++)
             {
                 int key = containsOneUnique[x];
                 if (findUnique.ContainsKey(key))
@@ -110,18 +112,20 @@ namespace UniqueElement
         static int GetUniqueElementBySort(int[] containsOneUnique, int n)
         {
             Array.Sort(containsOneUnique);
+            int nFormula = n * 2 + 1;
+            
             if(containsOneUnique[0] != containsOneUnique[1])
             {
                 return containsOneUnique[0];
             }
-            for (int x = 2; x < (n * 2 + 1); x++)
+            for (int x = 2; x < (nFormula - 1); x++)
             {
                 if(containsOneUnique[x] != containsOneUnique[x + 1] && containsOneUnique[x] != containsOneUnique[x - 1])
                 {
                     return containsOneUnique[x];
                 }
             }
-            return containsOneUnique[100000];
+            return containsOneUnique[nFormula - 1];
         }
 
         // seeding test by creating array of random numbers then randomizing their order
@@ -153,13 +157,13 @@ namespace UniqueElement
 
             unique = containsOneUnique[pairsOneUniqueLength - 1];
 
-            MakeRandomize(containsOneUnique);
+            MakeRandom(containsOneUnique);
 
             return containsOneUnique;
         }
 
         // shuffle the array order
-        public static void MakeRandomize(int[] toRandom)
+        public static void MakeRandom(int[] toRandom)
         {
             Random rand = new Random();
 

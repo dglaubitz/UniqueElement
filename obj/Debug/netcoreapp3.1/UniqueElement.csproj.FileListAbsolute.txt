@@ -9,3 +9,14 @@ C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueEl
 C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.dll
 C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.pdb
 C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.csprojAssemblyReference.cache
+C:\Dev\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.csprojAssemblyReference.cache
+C:\Dev\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.AssemblyInfoInputs.cache
+C:\Dev\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.AssemblyInfo.cs
+C:\Dev\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.dll
+C:\Dev\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.pdb
+C:\Dev\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.exe
+C:\Dev\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.deps.json
+C:\Dev\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.runtimeconfig.json
+C:\Dev\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.runtimeconfig.dev.json
+C:\Dev\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.dll
+C:\Dev\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.pdb
