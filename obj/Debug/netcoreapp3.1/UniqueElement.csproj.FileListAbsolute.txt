@@ -1,0 +1,11 @@
+C:\Users\DanGlaubitz\source\repos\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.exe
+C:\Users\DanGlaubitz\source\repos\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.deps.json
+C:\Users\DanGlaubitz\source\repos\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.runtimeconfig.json
+C:\Users\DanGlaubitz\source\repos\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.runtimeconfig.dev.json
+C:\Users\DanGlaubitz\source\repos\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.dll
+C:\Users\DanGlaubitz\source\repos\UniqueElement\bin\Debug\netcoreapp3.1\UniqueElement.pdb
+C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.AssemblyInfoInputs.cache
+C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.AssemblyInfo.cs
+C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.dll
+C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.pdb
+C:\Users\DanGlaubitz\source\repos\UniqueElement\obj\Debug\netcoreapp3.1\UniqueElement.csprojAssemblyReference.cache
